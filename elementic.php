@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Elementic
- * Plugin URI: http://www.gabcarvalhogama.com.br/conheca-o-elementic
- * Description: Integre o seu Elementor com o Mautic DE GRAÇA.
- * Version: 1.0
- * Author: Gabriel Carvalho Gama
- * Author URI: http://www.gabcarvalhogama.com.br
+ * Plugin URI: https://github.com/arcane-technology/Elementic
+ * Description: Integrate Elementor forms with Mautic
+ * Version: 1.1
+ * Author: Arcane Technology Solutions, LLC
+ * Author URI: https://arcanetechsolutions.com
  */
 
 
