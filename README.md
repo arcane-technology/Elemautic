@@ -1,12 +1,17 @@
 # Elementic
 
-Olá, bem-vindo ao repositório do Elementic, um plugin/extensão que adiciona o Mautic ao seu formulário do Elementor.
+Elementic is a WordPress plugin that will enable you to submit your Elementor Pro forms to your Mautic forms.
 
 
-## Como usar?
-Aprenda a usar: https://www.youtube.com/watch?v=GqcOK4Cuk2g
+## How To Use
+- Create a Form in Mautic
+- Give each field a field name
+- Create your form in ELementor, using the Mautic field name as the ID of the associated fields 
+- Select Mautic as a form action
+- Enter the URL of your Mautic installation
+- Enter the ID of the Mautic form
 
 
-## Links de Apoio (para dev)
+## Support Links for Developers
 https://developers.elementor.com/forms-api/
 https://github.com/elementor/elementor/blob/master/docs/content/pro/forms.md
